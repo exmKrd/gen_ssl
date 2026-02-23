@@ -1,0 +1,2 @@
+pyopenssl == 25.3.0
+colorama 
